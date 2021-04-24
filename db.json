@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream",
+      "description": "This is a test stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "sample stream",
+      "description": "sample description",
+      "id": 3
+    },
+    {
+      "title": "My Stream",
+      "description": "Stream created by Chirag Mehta",
+      "userId": "108777545342854423967",
+      "id": 4
+    }
+  ]
+}
